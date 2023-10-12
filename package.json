@@ -1,6 +1,6 @@
 {
-  "name": "mono-nuxt-delay-hydration",
-  "private": "true",
+  "name": "nuxt2-delay-hydration",
+  "private": false,
   "packageManager": "pnpm@7.1.0",
   "description": "Improve your Nuxt.js Google Lighthouse score by delaying hydration ⚡️",
   "workspaces": [
@@ -41,5 +41,5 @@
     "upath": "^2.0.1",
     "vitest": "^0.22.1"
   },
-  "version": "0.4.7"
+  "version": "0.4.8"
 }
